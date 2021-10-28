@@ -1,0 +1,40 @@
+body{background-color: #F4F4F4
+}
+
+.header{
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  height: 20%;
+  background-color: #FF7315;
+  font-size: 40px;
+}
+
+.leftmargin{
+  position: static;
+  left: 0;
+  width: 0;
+}
+
+.fullpage{
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  height: 100%;
+  width: 100%;
+  font-size: 20px;
+}
+
+.footer{
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  height: 20%;
+  background-color: #FF7315;
+  font-size: 20px
+
+}
